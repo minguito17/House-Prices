@@ -1,1 +1,1 @@
-
+This is a co-project by Jose Guarneros and Marinela Inguito while working on our Masters in Data Science. In this project, we utilized a CSV file containing features of homes located in a small city in Washington to predict house prices. We utilized various libraries in Python such as Pandas, Numpy, Matplotlib, Seaborn, and most importantly XGBoost + scikit-learn. The most important utilized were XGBoost and Sklearn which allowed us to utilize a linear regression model to predict house prices using features.
